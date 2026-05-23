@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: 'HAR Image Extractor',
   description: 'Extract and download images from HAR files',
   generator: 'v0.app',
+  manifest: '/manifest.json',
   icons: {
     icon: [
       {
